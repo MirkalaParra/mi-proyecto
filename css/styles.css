@@ -78,7 +78,6 @@ h2 {
 
  p {
     margin: 20px 0px;
-    text-align: center;
  }
 
  img {
@@ -119,6 +118,10 @@ h2 {
     
   }  
 
+  .parrafo-dos {
+    background-color: rgb(234, 204, 234);
+  }
+
   section {
     display: flex;
     flex-direction: column;
@@ -131,8 +134,8 @@ h2 {
   }  
 
   article {
-    background-color: rgb(234, 204, 234);
-  }  
+    text-align: center;
+     }  
 
 
   #inicio {
