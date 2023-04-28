@@ -142,7 +142,12 @@ h2 {
     justify-content: space-around;
   }  
 
+  #pie-pg {
+  text-align: center;
+  background-color: violet;
+  }  
 
+  
   .presentacion-img {
     margin-bottom: 20px;
     
